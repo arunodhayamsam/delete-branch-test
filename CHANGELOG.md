@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/arunodhayamsam/delete-branch-test/compare/v1.0.19...v1.1.0) (2023-06-15)
+
+
+### Features
+
+* New standard-version feture added ([6091679](https://github.com/arunodhayamsam/delete-branch-test/commit/6091679e5b1415002b538e5efc253c50e364e4c1))
+
 ### [1.0.19](https://github.com/arunodhayamsam/delete-branch-test/compare/v1.0.18...v1.0.19) (2023-06-07)
 
 ### [1.0.18](https://github.com/arunodhayamsam/delete-branch-test/compare/v1.0.17...v1.0.18) (2023-06-07)
