@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 app.get("/api", (req,res) => {
-    res.send("Hello world with new version")
+    res.send("Hello world with new version & openshift added")
 });
 
 const port = 8080
