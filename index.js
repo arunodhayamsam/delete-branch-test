@@ -14,7 +14,7 @@ app.get("/repeat", (req,res) => {
     res.send("Listening is working fine")
 })
 
-const port = 8080
+const port = 5000
 
 app.listen(port, () => {
     console.log(`App listen on ${port}`)
