@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "app":"2.3"
+    "app":"2.3",
+    "new":"hello"
   }
 }
