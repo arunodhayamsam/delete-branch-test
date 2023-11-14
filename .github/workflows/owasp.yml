@@ -20,7 +20,7 @@ jobs:
           node-version: '20.x'
       - name: Install packages
         run: |
-          npm audit
+          npm audit fix
           npm install      
       - name: Depcheck
         uses: dependency-check/Dependency-Check_Action@main
