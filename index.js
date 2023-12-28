@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 app.get("/api", (req,res) => {
-    res.send("Hello world with new version & openshift added")
+    res.send("Trident Queen is no with Trident King yes")
 });
 
 app.get("/listen", (req,res) => {
